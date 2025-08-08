@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--## Hi there 👋 I'm Ahsan  
+## Hi there 👋 I'm Ahsan  
 
 🎯 **Aspiring Data Analyst** | 📊 Turning data into actionable insights  
 
@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
